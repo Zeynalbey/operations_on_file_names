@@ -1,0 +1,5 @@
+C:\Users\DELL\Desktop\Visual studios  files\operations-on-file-names.exe
+C:\Users\DELL\Desktop\Visual studios  files\operations-on-file-names.dll
+C:\Users\DELL\Desktop\Visual studios  files\operations-on-file-names.deps.json
+C:\Users\DELL\Desktop\Visual studios  files\operations-on-file-names.runtimeconfig.json
+C:\Users\DELL\Desktop\Visual studios  files\operations-on-file-names.pdb

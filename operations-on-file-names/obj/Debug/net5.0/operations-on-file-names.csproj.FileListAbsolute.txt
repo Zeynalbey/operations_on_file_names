@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\operations-on-file-names\operations-on-file-names\obj\Debug\net5.0\operations-on-file-names.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\operations-on-file-names\operations-on-file-names\obj\Debug\net5.0\operations-on-file-names.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\operations-on-file-names\operations-on-file-names\obj\Debug\net5.0\operations-on-file-names.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\operations-on-file-names\operations-on-file-names\obj\Debug\net5.0\operations-on-file-names.AssemblyInfo.cs
+C:\Users\DELL\source\repos\operations-on-file-names\operations-on-file-names\obj\Debug\net5.0\operations-on-file-names.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\operations-on-file-names\operations-on-file-names\bin\Debug\net5.0\operations-on-file-names.exe
+C:\Users\DELL\source\repos\operations-on-file-names\operations-on-file-names\bin\Debug\net5.0\operations-on-file-names.deps.json
+C:\Users\DELL\source\repos\operations-on-file-names\operations-on-file-names\bin\Debug\net5.0\operations-on-file-names.runtimeconfig.json
+C:\Users\DELL\source\repos\operations-on-file-names\operations-on-file-names\bin\Debug\net5.0\operations-on-file-names.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\operations-on-file-names\operations-on-file-names\bin\Debug\net5.0\operations-on-file-names.dll
+C:\Users\DELL\source\repos\operations-on-file-names\operations-on-file-names\bin\Debug\net5.0\ref\operations-on-file-names.dll
+C:\Users\DELL\source\repos\operations-on-file-names\operations-on-file-names\bin\Debug\net5.0\operations-on-file-names.pdb
+C:\Users\DELL\source\repos\operations-on-file-names\operations-on-file-names\obj\Debug\net5.0\operations-on-file-names.dll
+C:\Users\DELL\source\repos\operations-on-file-names\operations-on-file-names\obj\Debug\net5.0\ref\operations-on-file-names.dll
+C:\Users\DELL\source\repos\operations-on-file-names\operations-on-file-names\obj\Debug\net5.0\operations-on-file-names.pdb
+C:\Users\DELL\source\repos\operations-on-file-names\operations-on-file-names\obj\Debug\net5.0\operations-on-file-names.genruntimeconfig.cache
